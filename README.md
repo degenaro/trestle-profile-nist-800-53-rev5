@@ -1,8 +1,7 @@
-# compliance-trestle-template-profile
-compliance-trestle template for agile authoring of profiles
+## compliance-trestle-template-profile
 
-Note: This repo is currently a Work-In-Progress...
+This repo comprises NIST 800-53 Rev5 as OSCAL profile.
 
-About
+##### About
 
-See documentation.
+See [documentation](https://github.com/IBM/compliance-trestle-agile-authoring).

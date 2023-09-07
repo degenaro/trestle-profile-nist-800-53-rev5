@@ -2,5 +2,5 @@
 
 source config.env
 
-echo "Regenerating ${CATALOG}" 
+echo "Regenerating ${PROFILE}" 
 trestle author profile-generate --name $PROFILE --output md_profiles/$PROFILE

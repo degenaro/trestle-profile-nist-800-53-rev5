@@ -2,7 +2,7 @@
 
 source config.env
 
-export COMMIT_TITLE="chore: Catalogs automatic update."
+export COMMIT_TITLE="chore: Profiles automatic update."
 export COMMIT_BODY="Sync profiles with $PROFILE repo"
 git config --global user.email "$EMAIL"
 git config --global user.name "$ENAME"
